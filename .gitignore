@@ -5,6 +5,3 @@ __pycache__/
 # Virtual environments / Conda environments
 .venv/
 .env
-
-# Model weights
-*.pkl
